@@ -16,13 +16,6 @@ public class DistanceConverter{
  		double num3 = num1 * num2;
  		
  		System.out.println(num1+ "m is equal to "+num3+"ft");
-
-
- 		
-
-
- 		
-
  	}
 
  }
